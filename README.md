@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Feri</h1>
-<h3 align="center">A Fullstack Web Development Enthusiast</h3>
+<h1>Hi 👋, I'm Feri</h1>
+<h3>A Frontend Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahferii&label=Profile%20views&color=0e75b6&style=flat" alt="lahferii" /> </p>
 
-- 🌱 I’m currently learning **Laravel and Vue JS tho.**
+- 🌱 I’m currently learning **Laravel and Vue JS.**
 
 - 👨‍💻 All of my projects are available at [nurferi.netlify.app](nurferi.netlify.app)
 
-- ⚡ Fun fact **idk but i think im genius, haha!**
+- ⚡ **I don't know, but I think I'm an anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
