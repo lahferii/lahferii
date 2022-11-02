@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel and Vue JS.**
 
-- 👨‍💻 All of my projects are available at [nurferi.netlify.app](nurferi.netlify.app)
-
 - ⚡ **I don't know, but I think I'm an anime**
 
 <h3 align="left">Connect with me:</h3>
