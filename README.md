@@ -7,11 +7,11 @@ You can also find me on :
 <p  align="left">
 
 <a  href="https://www.instagram.com/pey.nr">
-  <img  alt="Instagram"  title="Follow my instagram"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img  alt="Instagram"  title="Follow my instagram"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge">
 </a>
 
 <a  href="https://www.linkedin.com/in/feri-nurjaman/">
-  <img  alt="Instagram"  title="Connect with me"  src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  <img  alt="Instagram"  title="Connect with me"  src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge">
 </a>
 
 <a  href="https://nurferi.site/">
