@@ -1,3 +1,4 @@
-```javascript
-console.info("Hallo Semua!!!")
+## met pagi ol!
+```c
+printf("Halo Semua!");
 ```
