@@ -1,6 +1,4 @@
-## Feri Nurjaman
-
-Mahasiswa yang berperilaku seperti mahasiswa normal pada umumnya 
+## Feri Nurjaman's Repository
 
 ```c
 printf("Halo Semua!");
